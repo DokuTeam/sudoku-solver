@@ -1,2 +1,2 @@
 # sudoku-solver
-A Sudoku solver from an image implemented in Python
+A Python-implemented Sudoku solver that extracts and solves puzzles from images.
